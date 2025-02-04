@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@font-face{
+    font-family: 'DeadLetter';
+    src: url('../public/fonts/SuperPancake.ttf') format('truetype');
+}
+
+@theme{
+    --font-tittle: 'DeadLetter';
+}
