@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @font-face{
     font-family: 'DeadLetter';
-    src: url('../public/fonts/SuperPancake.ttf') format('truetype');
+    src: url('/fonts/SuperPancake.ttf') format('truetype');
 }
 
 @theme{
